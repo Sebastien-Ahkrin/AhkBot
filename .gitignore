@@ -20,6 +20,8 @@
 
 ./gradle/*
 ./.idea/*
+.idea/
+.idea/*
 ./build/*
 *.iml
 
